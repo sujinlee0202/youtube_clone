@@ -2,6 +2,7 @@ import { createBrowserRouter } from "react-router-dom";
 import SearchPage from "./pages/search";
 import MainPage from "./pages/main";
 import Home from "./pages/home";
+import VideoDetail from "./pages/video-detail";
 
 export const router = [
   {
@@ -18,10 +19,16 @@ export const router = [
       },
       {
         id: 1,
-        path: '/results',
+        path: '/results/:keyword',
         label: 'search',
         element: <SearchPage />
-      }
+      },
+      {
+        id: 2,
+        path: '/watch/:id',
+        label: 'video-detail',
+        element: <VideoDetail />
+      },
     ]
   },
 ]

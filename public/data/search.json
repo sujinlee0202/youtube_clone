@@ -1,862 +1,856 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "KJaF0_8ioyxQlvUBPj4SfxTuV7U",
+  "etag": "9KaZRvYt3MiZrfEYr8Qc-X13ofU",
   "nextPageToken": "CBkQAA",
   "regionCode": "KR",
   "pageInfo": {
-    "totalResults": 1000000,
-    "resultsPerPage": 25
+      "totalResults": 1000000,
+      "resultsPerPage": 25
   },
   "items": [
-    {
-      "kind": "youtube#searchResult",
-      "etag": "sLCOefK0WLy2mPq9tumkpnNOjVA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "OTWYsXF99iY"
-      },
-      "snippet": {
-        "publishedAt": "2022-09-24T11:30:05Z",
-        "channelId": "UCg-p3lQIqmhh7gHpyaOmOiQ",
-        "title": "British Highschoolers try School Lunch in Korea!!",
-        "description": "While visiting Korea and having the time of their lives, we also wanted to give the boys an experience of what the lives of High ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "SgxmYR5VmSDPXvID8rgeK5GNEOE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Cb70gcTVvYI"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OTWYsXF99iY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2022-10-16T04:00:03Z",
+              "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+              "title": "BTS (방탄소년단) &#39;달려라 방탄 (Run BTS)&#39; @ BTS &quot;Yet To Come&quot; in BUSAN",
+              "description": "BTS #방탄소년단 #달려라방탄 #RunBTS #YetToComeInBUSAN Connect with BTS: https://ibighit.com/bts ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Cb70gcTVvYI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Cb70gcTVvYI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Cb70gcTVvYI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "BANGTANTV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-10-16T04:00:03Z"
           }
-        },
-        "channelTitle": "영국남자 Korean Englishman",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T11:30:05Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "JXvNUyqCr1dsDul2c9Z1oJhO-hQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "xNkMbGrUdqU"
       },
-      "snippet": {
-        "publishedAt": "2022-09-23T14:38:06Z",
-        "channelId": "UCpjOmwiy88a9EV3Rv8ukJgw",
-        "title": "대한민국 VS 코스타리카 : 하나은행 초청 축구국가대표팀 친선경기 하이라이트 - 2022.09.23",
-        "description": "대한민국 VS 코스타리카 : 하나은행 초청 축구국가대표팀 친선경기 하이라이트 - 2022.09.23 #대한축구협회 공식 채널 대한민국 축구 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "wSLZE2niuLS4N2sC4Rg30BT65H0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "XsX3ATc3FbA"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/xNkMbGrUdqU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2019-04-12T09:00:02Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "BTS (방탄소년단) &#39;작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)&#39; Official MV",
+              "description": "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)' Official MV Credits: Director : YongSeok Choi (Lumpens) ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-04-12T09:00:02Z"
           }
-        },
-        "channelTitle": "KFATV_대한민국 축구 국가대표팀",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T14:38:06Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "yteWjK0XHj2lht_OqEfGI3-pq00",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "IrRFh1dLRQM"
       },
-      "snippet": {
-        "publishedAt": "2022-09-23T13:40:20Z",
-        "channelId": "UCjn-VbcIkAeXQKCmLJV8YwQ",
-        "title": "코스타리카전 하이라이트 | 2022 축구 국가대표 평가전 대한민국 vs 코스타리카 하이라이트 | 디지털 독점 생중계 | 쿠팡플레이 | 쿠팡",
-        "description": "대한민국 2 - 2 코스타리카 2022 축구 국가대표 평가전 하이라이트 더 보고 싶다면? 지금 쿠팡플레이에서 확인하기!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "OB5_-e5VAd6gVMqFgNqmY8IB_X8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "kTlv5_Bs8aw"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/IrRFh1dLRQM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2017-11-24T09:00:02Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "BTS (방탄소년단) &#39;MIC Drop (Steve Aoki Remix)&#39; Official MV",
+              "description": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official MV Credits: Music Video by GDW, Directed by Woogie Kim Producer: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2017-11-24T09:00:02Z"
           }
-        },
-        "channelTitle": "쿠팡플레이 Coupang Play",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:40:20Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "BIEhp-00sfG0HabrdNAj83L5bYM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "mPq9PAZM43M"
       },
-      "snippet": {
-        "publishedAt": "2022-09-23T13:57:34Z",
-        "channelId": "UCY_WNRa7H0P420fJkOFovtQ",
-        "title": "South Korea vs Costa Rica 2-2 ( Friendlies ) 23/09/2022",
-        "description": "South Korea vs Costa Rica 2-2 ( Friendlies ) 23/09/2022 1-0 H. Hee-chan 28' 2-0 J. Bennette 41' 2-1 J. Bennette 64' 2-2 S.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "3vKy6s_CO6k1fq29IXLWvPl7Zb4",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "cXCBiF67jLM"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/mPq9PAZM43M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2023-01-13T05:00:07Z",
+              "channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
+              "title": "TAEYANG - &#39;VIBE (feat. Jimin of BTS)&#39; M/V",
+              "description": "https://taeyang.lnk.to/VIBE TAEYANG - 'VIBE (feat. Jimin of BTS)' M/V 말론 표현할 수 없지만 Girl, You gotta know you got that vibe ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/cXCBiF67jLM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/cXCBiF67jLM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/cXCBiF67jLM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "THEBLACKLABEL",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-01-13T05:00:07Z"
           }
-        },
-        "channelTitle": "DEL PIERO 10",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:57:34Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "0TAGfPgdMc6n8zlJxeXJ-wM6CBw",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Ko1bqasNDls"
       },
-      "snippet": {
-        "publishedAt": "2018-12-16T12:47:18Z",
-        "channelId": "UCFMkPeE8jiPirJMv9kttuIg",
-        "title": "South Korea 4K. Interesting Facts About South Korea",
-        "description": "South Korea is one of the most developed countries today. Lets take a tour of Korea and see modern Korean cities. Seoul, Busan ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "sGTqR_czi441WXXR4e3cJbDb3CE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "kXpOEzNZ8hQ"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Ko1bqasNDls/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2022-06-10T03:59:38Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "BTS (방탄소년단) &#39;Yet To Come (The Most Beautiful Moment)&#39; Official MV",
+              "description": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official MV Credits: Director: Yong Seok Choi (Lumpens) 1st AD: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-06-10T03:59:38Z"
           }
-        },
-        "channelTitle": "CoolVision",
-        "liveBroadcastContent": "none",
-        "publishTime": "2018-12-16T12:47:18Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "-WBBf5ZALtk3cXr0FsaI5CPciVk",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Y_KWTkEqG2o"
       },
-      "snippet": {
-        "publishedAt": "2022-09-25T20:07:51Z",
-        "channelId": "UCKJtYrlWaF3G0LIneEKoPew",
-        "title": "Night Shift With the Hardest Tournament In Korea | Uprising Korea 2022: The ATP Fight Companion",
-        "description": "TEKKEN7 #Aris #TWT2022 Aris had to tap out due to the time, check out Top 3 on https://www.twitch.tv/videos/1600697972 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "ScPcCuTqaj2xoIijDNE0-zYBuK8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "4ujQOR2DMFM"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Y_KWTkEqG2o/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2016-05-01T15:00:22Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "BTS (방탄소년단) &#39;불타오르네 (FIRE)&#39; Official MV",
+              "description": "BTS Special Album '화양연화 Young Forever' will be released on 2nd May 2016. iTunes Download Link ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/4ujQOR2DMFM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/4ujQOR2DMFM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/4ujQOR2DMFM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2016-05-01T15:00:22Z"
           }
-        },
-        "channelTitle": "Avoiding The Puddle",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-25T20:07:51Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "WMrM2ghOy8F-mEdAiP1lX0p0dek",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "cXX5J3rHjHk"
       },
-      "snippet": {
-        "publishedAt": "2022-09-25T03:09:45Z",
-        "channelId": "UCtKKtyxOmmt60A2-pp0B1cw",
-        "title": "There are some things about Korea in the Tower of London?, Tower of London, Queen, AMWF, Couple",
-        "description": "toweroflondon #queenelizabeth #amwf.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "H2uldVWWo4A0taSSf_x-gCyX6uA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "gdZLi9oWNZg"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cXX5J3rHjHk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2020-08-21T03:58:10Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "BTS (방탄소년단) &#39;Dynamite&#39; Official MV",
+              "description": "BTS (방탄소년단) 'Dynamite' Official MV Credits: Director: Yong Seok Choi (Lumpens) Assistant Director: Jihye Yoon (Lumpens) ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-08-21T03:58:10Z"
           }
-        },
-        "channelTitle": "브리티쉬 새댁 : BRITISH WIFE",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-25T03:09:45Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "VhPanuQC4a0QcSr88ZmWldTTvnE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "poHTA94-BeY"
       },
-      "snippet": {
-        "publishedAt": "2022-09-21T15:00:28Z",
-        "channelId": "UCn8zNIfYAQNdrFRrr8oibKw",
-        "title": "What North Korea Doesn’t Want You To See | Super Users",
-        "description": "Blogger Jacob Bogle often receives this warning, “State-sponsored actors are attempting to hack into your account.” It's all ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/poHTA94-BeY/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "xU3EQPAP9KWKSWyQtYS4VRx0GiA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "UaywgAqcLxI"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/poHTA94-BeY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/poHTA94-BeY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2023-03-17T03:59:11Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "지민 (Jimin) &#39;Set Me Free Pt.2&#39; Official MV",
+              "description": "지민 (Jimin) 'Set Me Free Pt.2' Official MV 'FACE' Release 3/24 1PM KST | 0AM ET Pre-order & pre-save 'FACE': ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/UaywgAqcLxI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/UaywgAqcLxI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/UaywgAqcLxI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-03-17T03:59:11Z"
           }
-        },
-        "channelTitle": "VICE",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-21T15:00:28Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "rGmZBOTYAjhr2P9WvyJ0nH9N-dU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "yICHjopBVT0"
       },
-      "snippet": {
-        "publishedAt": "2022-09-23T13:40:34Z",
-        "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
-        "title": "US aircraft carrier arrives at naval base in South Korea&#39;s Busan",
-        "description": "US aircraft carrier USS Ronald Reagan has arrived at a naval base in South Korea's southern port city of Busan. Officials in Seoul ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/yICHjopBVT0/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Kqyu1vcDFq2Zj6VBzo1VaxdyL0Q",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "aqW4xXUgmno"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/yICHjopBVT0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/yICHjopBVT0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2022-11-13T10:00:02Z",
+              "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+              "title": "[CHOREOGRAPHY] BTS (방탄소년단) &#39;달려라 방탄 (Run BTS)&#39; Dance Practice",
+              "description": "BTS #방탄소년단 #달려라방탄 #RunBTS Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/aqW4xXUgmno/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/aqW4xXUgmno/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/aqW4xXUgmno/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "BANGTANTV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-13T10:00:02Z"
           }
-        },
-        "channelTitle": "CNA",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:40:34Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "47b4-JmLcO11LACaUuRS7IK72K4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "udtN3czhkA8"
       },
-      "snippet": {
-        "publishedAt": "2022-09-24T23:00:31Z",
-        "channelId": "UCa-DreapaYm4Roo0CfUBGQg",
-        "title": "bye seoul ✨ a day of my life in korea ☕ cafe hopping in daejeon, a little trip out of seoul vlog",
-        "description": "Head to https://squarespace.com/caricakes to save 10% off your first purchase of a website or domain using code CARICAKES ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/udtN3czhkA8/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "aIY_ky8KvDy7BYmNdSfsVGVsF2A",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCLkAepWjdylmXSltofFvsYQ"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/udtN3czhkA8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/udtN3czhkA8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2012-12-17T03:20:38Z",
+              "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+              "title": "BANGTANTV",
+              "description": "This is the official YouTube channel of BTS. 방탄소년단 공식 유튜브 채널 입니다.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "BANGTANTV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2012-12-17T03:20:38Z"
           }
-        },
-        "channelTitle": "cari cakes",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T23:00:31Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "g9BlAPsYE79_C_3JgqCGB_AEpWQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "3P1CnWI62Ik"
       },
-      "snippet": {
-        "publishedAt": "2020-07-30T05:46:28Z",
-        "channelId": "UChhOtjq-3QyyLmP2jv9amrg",
-        "title": "Feel the Rhythm of KOREA: SEOUL",
-        "description": "Enjoy wonderful attractions of South Korea with a lively, rhythmic sound! Korean Tourism Organization collaborated with an ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "66aWHlCoeonIjrxhsRkH__AD44I",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "HbkBVxU5K5A"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/3P1CnWI62Ik/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2022-04-23T01:00:03Z",
+              "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+              "title": "BTS (방탄소년단) &#39;Butter&#39; @ The 64th GRAMMY Awards",
+              "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "BANGTANTV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-04-23T01:00:03Z"
           }
-        },
-        "channelTitle": "Imagine Your Korea",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-07-30T05:46:28Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ru_YTz8hyk0F8R8wB7T09knh_jI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "4uqoz7xIf6o"
       },
-      "snippet": {
-        "publishedAt": "2022-09-23T12:58:56Z",
-        "channelId": "UCydi_iDuARZqbC0vYpGhfsQ",
-        "title": "South Korea vs Costa Rica 2-2 Extеndеd Hіghlіghts &amp; Gоals 2022 HD",
-        "description": "Korea#CostaRica#SoonGoal.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "HybyPNhkoe1OdwjLUyXrXIIrUo0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "CuklIb9d3fI"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4uqoz7xIf6o/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2021-07-09T03:59:12Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "BTS (방탄소년단) &#39;Permission to Dance&#39; Official MV",
+              "description": "BTS (방탄소년단) 'Permission to Dance' Official MV Credits: Director: Yong Seok Choi (Lumpens) & Woogie Kim (MOTHER) ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/CuklIb9d3fI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/CuklIb9d3fI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/CuklIb9d3fI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-07-09T03:59:12Z"
           }
-        },
-        "channelTitle": "tahahahahahbarame",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T12:58:56Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "GbelpdHsiy3KHvkC7zhm4QQWdzg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "UDlWtkvFYLU"
       },
-      "snippet": {
-        "publishedAt": "2022-09-24T23:18:39Z",
-        "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
-        "title": "North Korea fires ballistic missile towards the Sea of Japan",
-        "description": "South Korea's Joint Chiefs of Staff have announced North Korea has fired an unspecified ballistic missile towards the sea of ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "pqMPgtNPiERV7hkvSnX6LgNIiOk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "0lapF4DQPKQ"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/UDlWtkvFYLU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2020-03-04T15:00:02Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "BTS (방탄소년단) &#39;Black Swan&#39; Official MV",
+              "description": "BTS (방탄소년단) 'Black Swan' Official MV Credits: Director : YongSeok Choi (Lumpens) Co-Director : Guzza (Lumpens) Assistant ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-03-04T15:00:02Z"
           }
-        },
-        "channelTitle": "Sky News Australia",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T23:18:39Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "YAH595UCgwnGgeFIzORsPSGF1Z8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "eVFMDMpY36o"
       },
-      "snippet": {
-        "publishedAt": "2020-11-21T04:43:42Z",
-        "channelId": "UCkIom4UP_2D0DXuG92vd_KQ",
-        "title": "【Seoul】 Travel Guide - Top 10 Seoul | Korea Travel | Asia Travel | Travel at home",
-        "description": "Follow us to the most beautiful places in Seoul! Have an amazing trip at home. In this video, we'll cover more than Top ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "jHjvzyjDV5OKmOzTUfkm6kP4X-8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "WMweEpGlu_U"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/eVFMDMpY36o/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2021-05-21T03:46:13Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "BTS (방탄소년단) &#39;Butter&#39; Official MV",
+              "description": "BTS (방탄소년단) 'Butter' Official MV Credits: Director: Yong Seok Choi (Lumpens) 1st AD: Jihye Yoon (Lumpens) 2nd AD: Ran ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/WMweEpGlu_U/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/WMweEpGlu_U/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/WMweEpGlu_U/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-05-21T03:46:13Z"
           }
-        },
-        "channelTitle": "Before Your Trip",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-11-21T04:43:42Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "rAcCkuleJdI7Kwgus5cR7yUnVyo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "rXDoqD7FjQw"
       },
-      "snippet": {
-        "publishedAt": "2022-09-22T16:33:25Z",
-        "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
-        "title": "WION Fineprint | North Korea denies sending arms to Russia amid Ukraine war",
-        "description": "North Korea denied sending weapons to Russia, accusing the United States of spreading rumours about such a sale to tarnish ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "m5C_eTD4IkQBjoFMEo14NTF_CVg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "MBdVXkSdhwU"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/rXDoqD7FjQw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2017-09-18T09:00:02Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "BTS (방탄소년단) &#39;DNA&#39; Official MV",
+              "description": "BTS (방탄소년단) 'DNA' Official MV Credits: Director : YongSeok Choi (Lumpens) Assistant Director : WonJu Lee (Lumpens) ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2017-09-18T09:00:02Z"
           }
-        },
-        "channelTitle": "WION",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-22T16:33:25Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ybHTGc970cUMrjeGLj8LSnXOzbA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "X5q0Fd_KV1w"
       },
-      "snippet": {
-        "publishedAt": "2022-09-23T11:09:06Z",
-        "channelId": "UC925y3Dn61A7MBXGZJWNX9A",
-        "title": "MOVING IN KOREA (+ grocery shopping)",
-        "description": "BGM sources BGM President https://www.youtube.com/c/bgmpresident 별 헤는 다락방 Starry Attic ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "r1abgipa7SL0yS1AjLvVBRR9hC0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "7xTQJbkwSfs"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/X5q0Fd_KV1w/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2023-03-14T09:00:07Z",
+              "channelId": "UCpltpdgUIrAlf5oPmHslyLQ",
+              "title": "So!YoON! (황소윤) &#39;Smoke Sprite&#39; (feat. RM of BTS) Official MV",
+              "description": "So!YoON! Episode1 : Love 01. IN (Void) 02. Smoke Sprite (feat. RM of BTS) 03. Till the sun goes up 04. Bad 05. why don't you ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/7xTQJbkwSfs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/7xTQJbkwSfs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/7xTQJbkwSfs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "새소년 SE SO NEON",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-03-14T09:00:07Z"
           }
-        },
-        "channelTitle": "KrisTells Vlogs",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T11:09:06Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Fko1jl6ZczSFvLyX69dkEe9R4nI",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "OIGBoo2QbFM"
       },
-      "snippet": {
-        "publishedAt": "2022-09-23T09:15:00Z",
-        "channelId": "UC91JExDefknFHQ5Lqp-g_Jg",
-        "title": "[ENG] 무슨 노래 듣고 계세요? 고려대편 What Song Are You listening To? Korea University",
-        "description": "고려대학교에서 사람들에게 물어봤습니다. \"무슨 노래 듣고 계세요?\" *본 영상에서 인터뷰에 응해주신 모든 분들께는 유튜브 촬영 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "_FEJrHigpJi9F5_MDUVTzpC4cWo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "MqpMy8XI_6s"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OIGBoo2QbFM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2022-09-01T11:54:42Z",
+              "channelId": "UCnqkClmpkbi2xRjttuYPvWw",
+              "title": "BTS/방탄소년단 &#39;Blood Sweat &amp; Tears + Fake Love&#39; Live PTD On Stage Las Vegas D-4",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/MqpMy8XI_6s/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/MqpMy8XI_6s/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/MqpMy8XI_6s/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "BTS LIVE 2",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-09-01T11:54:42Z"
           }
-        },
-        "channelTitle": "복코s",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T09:15:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "dNwGFbxrh_ZK1kG7ax2X3Byi57I",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "jejLBWMsyHk"
       },
-      "snippet": {
-        "publishedAt": "2022-07-27T13:28:04Z",
-        "channelId": "UCg-p3lQIqmhh7gHpyaOmOiQ",
-        "title": "Pack your bags boys! You&#39;re going to KOREA!!!",
-        "description": "A year after a handshake and a promise… the British High schoolers are finally coming on a School Trip to Korea! 7 students.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "kMcug9gykLGcC7gj0Txv4uDel1Q",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "GZjt_sA2eso"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/jejLBWMsyHk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2016-05-15T13:00:03Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "BTS (방탄소년단) &#39;Save ME&#39; Official MV",
+              "description": "BTS (방탄소년단) 'Save ME' Official MV.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/GZjt_sA2eso/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/GZjt_sA2eso/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/GZjt_sA2eso/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2016-05-15T13:00:03Z"
           }
-        },
-        "channelTitle": "영국남자 Korean Englishman",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-07-27T13:28:04Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "QUOydUauRWhJhZ_1YBT7uIpreM8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "4usmpuMP7R4"
       },
-      "snippet": {
-        "publishedAt": "2022-09-23T18:17:27Z",
-        "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-        "title": "U.S. aircraft carrier arrives in South Korea for first time since 2018",
-        "description": "An American aircraft carrier has arrived in South Korea for the first time in almost five years. The U.S. and South Korean navies will ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "lmkm7HBCcsjyPvNYQDOu-Hdlkgs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "pBuZEGYXA6E"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/4usmpuMP7R4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2018-08-24T09:00:03Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "BTS (방탄소년단) &#39;IDOL&#39; Official MV",
+              "description": "BTS (방탄소년단) 'IDOL' Official MV Director : YongSeok Choi (Lumpens) Assistant Director : Guzza, MinJe Jeong, HyeJeong Park ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-08-24T09:00:03Z"
           }
-        },
-        "channelTitle": "CBS News",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T18:17:27Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "l8khr7AUrmkyRXFla0D5kQShrp0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "o70MzTHHNbI"
       },
-      "snippet": {
-        "publishedAt": "2018-10-22T18:59:58Z",
-        "channelId": "UCFMkPeE8jiPirJMv9kttuIg",
-        "title": "Seoul South Korea 4K .City - Sights - People",
-        "description": "Lets take a tour to Seoul South Korea. One of the largest cities in the world renowned for its architecture, technical advancements ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "XU6ShmlsIsaZudNzmowDsZE_WX0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "-5q5mZbe3V8"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/o70MzTHHNbI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2020-11-20T04:58:11Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "BTS (방탄소년단) &#39;Life Goes On&#39; Official MV",
+              "description": "BTS (방탄소년단) 'Life Goes On' Official MV Credits: Director: Jeon Jung Kook Assistant Director: Yong Seok Choi, Jihye Yoon ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-11-20T04:58:11Z"
           }
-        },
-        "channelTitle": "CoolVision",
-        "liveBroadcastContent": "none",
-        "publishTime": "2018-10-22T18:59:58Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "DIgkkmzdS-cUUr86ruCcsXgRG6M",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "P2lhXFe8C1k"
       },
-      "snippet": {
-        "publishedAt": "2022-09-24T07:50:00Z",
-        "channelId": "UCxHoBXkY88Tb8z1Ssj6CWsQ",
-        "title": "যৌথ সামরিক মহড়ায় দক্ষিণ কোরিয়া-যুক্তরাষ্ট্র | USA | South Korea | North Korea | Somoy TV",
-        "description": "jointexercises #usaandsouthkorea #usa #USaircraft #southkorea #northkorea #somoytv The United States is going to conduct ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "vdNMoqBQctUUXVT9_VQWSCrOCeQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "3q77q3f-K1I"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/P2lhXFe8C1k/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2022-11-13T11:00:31Z",
+              "channelId": "UCSWAL4JDNYZax_FatwYWrVQ",
+              "title": "BTS - &#39;Run BTS&#39; Dance Practice Mirrored [4K]",
+              "description": "BTS (방탄소년단) '달려라 방탄 (Run BTS)' Dance Practice 4K #BTS #방탄소년단 #run_bts 방탄소년단 달려라 방탄 BTS Run BTS ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/3q77q3f-K1I/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/3q77q3f-K1I/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/3q77q3f-K1I/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "BLACK CAT",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-13T11:00:31Z"
           }
-        },
-        "channelTitle": "SOMOY TV",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-24T07:50:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "N6qCh0kjYbXxXqUHIP2huk-Qync",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "0YZxpzrANXM"
       },
-      "snippet": {
-        "publishedAt": "2022-09-09T09:33:00Z",
-        "channelId": "UCtyltqstMm6iKnkk2Y9Zt8A",
-        "title": "We went to KOREA to meet BTS 💜 Staying at KOREA&#39;S First Robot Hotel",
-        "description": "ROBOTS, TECHNOLOGY AUR BHOT SARA DHAMAAL #KOREA SUBSCRIBE!!! . . Read my travel stories: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "zaVfo5NIpxIH81qnB4cfzKnMIKw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "7C2z4GqqS5E"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/0YZxpzrANXM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2018-05-18T09:00:02Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "BTS (방탄소년단) &#39;FAKE LOVE&#39; Official MV",
+              "description": "BTS (방탄소년단) 'FAKE LOVE' Official MV Director : YongSeok Choi (Lumpens) Assistant Director : WonJu Lee, Guzza, ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-05-18T09:00:02Z"
           }
-        },
-        "channelTitle": "Wanderers Hub",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-09T09:33:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "36aoMmq9pwSNJc9UVSAIqhkwLc4",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Wfu846Gb6Vk"
       },
-      "snippet": {
-        "publishedAt": "2022-09-23T13:30:08Z",
-        "channelId": "UCttQf1sGLn5wZaaqoHam1-w",
-        "title": "The First Ever Safari Zone in South Korea is INSANE, BECAUSE... - Pokemon GO",
-        "description": "After not being able to attend any in-person events for over 2 years, finally this is not just the first Safari Zone to happen in South ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "hTKydt-fDn-2hgLM1pKW_vX77Sw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "D2xmlzMOsmM"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Wfu846Gb6Vk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2019-04-18T11:06:18Z",
+              "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+              "title": "[BTS - Boy With Luv] Comeback Special Stage | M COUNTDOWN 190418 EP.615",
+              "description": "M COUNTDOWN｜Ep.615 보라해♡ '#방탄소년단' 방탄을 알게 된 이후 아미들의 삶은 온통 방탄 뿐♥ '작은 것들을 위한 시 (Boy ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/D2xmlzMOsmM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/D2xmlzMOsmM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/D2xmlzMOsmM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Mnet K-POP",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-04-18T11:06:18Z"
           }
-        },
-        "channelTitle": "BrandonTan91",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T13:30:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "m17Pfamo3CmEYNqg7OyGhtrf8Cg",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "gwzO4fPkDEk"
       },
-      "snippet": {
-        "publishedAt": "2022-09-23T14:14:56Z",
-        "channelId": "UC5klUqmlo9G8U5iaQ53ogIA",
-        "title": "Announcing my new album, and arriving in South Korea",
-        "description": "It's my first time in South Korea and I'm absolutely loving it. I also announced my new album Future eForever in this video. If you'd ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Ez7HukaiDrLxMc9eBb5x94xruEU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "DbXMjAYSa68"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/gwzO4fPkDEk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2021-05-30T10:00:01Z",
+              "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+              "title": "[CHOREOGRAPHY] BTS (방탄소년단) &#39;Butter&#39; Special Performance Video",
+              "description": "Artist: RM, Jin, SUGA, j-hope, Jimin, V, Jung Kook Production Artist Contents Studio (HYBE 360) Director: Jang Jeong In Assistant ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/DbXMjAYSa68/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/DbXMjAYSa68/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/DbXMjAYSa68/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "BANGTANTV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-05-30T10:00:01Z"
           }
-        },
-        "channelTitle": "Jonathan Ogden",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-23T14:14:56Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "3DXONSxKDfA-3Yzj9QeyGmz_fb8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "x6AHuxqt1U0"
       },
-      "snippet": {
-        "publishedAt": "2022-09-22T02:00:09Z",
-        "channelId": "UCNrRJm0gWx69f8Ybdnsi23A",
-        "title": "shopping in korea vlog 🇰🇷 shoes &amp; accessories haul from Gotomall Underground Shopping Center",
-        "description": "come shopping with me! shoes & accessories haul from Gotomall Underground shopping center in Seoul. 고투몰 지하 상가 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/default.jpg",
-            "width": 120,
-            "height": 90
+      {
+          "kind": "youtube#searchResult",
+          "etag": "rPpzsCAh47QPhiRpnL-ebevE87M",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Ru78tYO_vJA"
           },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/x6AHuxqt1U0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+          "snippet": {
+              "publishedAt": "2023-03-18T10:00:02Z",
+              "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+              "title": "[CHOREOGRAPHY] 지민 (Jimin) ‘Set Me Free Pt.2’ Dance Practice",
+              "description": "SetMeFree_Pt2 #지민 #Jimin #Jimin_FACE 'FACE' Release 3/24 1PM KST | 0AM ET Pre-order & pre-save 'FACE': ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Ru78tYO_vJA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Ru78tYO_vJA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Ru78tYO_vJA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "BANGTANTV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-03-18T10:00:02Z"
           }
-        },
-        "channelTitle": "sassyinkorea",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-09-22T02:00:09Z"
       }
-    }
   ]
 }
