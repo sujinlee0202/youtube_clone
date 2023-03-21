@@ -19,7 +19,7 @@ export const router = [
       },
       {
         id: 1,
-        path: '/results/:keyword',
+        path: '/results',
         label: 'search',
         element: <SearchPage />
       },

@@ -1,15 +1,19 @@
 import { useQuery } from '@tanstack/react-query'
 import React from 'react'
-import { useParams } from 'react-router'
+import { useLocation } from 'react-router'
 import { fetchSearch } from '../../api/fetchSearch'
 import VideoCard from '../../components/VideoCard'
 
 
 const SearchPage = () => {
-  const { keyword } = useParams();
+  const location = useLocation()
+  let query = new URLSearchParams(location.search)
+  let keyword = query.get('search_query')
+
   const {data: search, isLoading, error} = useQuery(['videos', keyword], fetchSearch, {
     staleTime: 1000 * 60
   })
+
 
   if(isLoading) return <div>loading...</div>
   if(error) return <div>{error.message}</div>
