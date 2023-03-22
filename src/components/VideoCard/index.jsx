@@ -12,15 +12,17 @@ const VideoCard = ({videos, type}) => {
     staleTime: 1000 * 60 * 5
   })
   const navigate = useNavigate()
-
-  const onClickVideoDetail = () => {
-    navigate(`/watch?v=${videos.id.videoId ? videos.id.videoId : videos.id}`)
-  }
   
   if(isLoading) return <div>loading...</div>
   if(error) return <div>{error.message}</div>
 
   const url = channel.thumbnails.default.url
+
+  const onClickVideoDetail = () => {
+    navigate(`/watch?v=${videos.id.videoId ? videos.id.videoId : videos.id}`, {
+      state: {videos: videos, channelURL: url}
+    })
+  }
 
   return (
     <>
