@@ -28,7 +28,6 @@ const Header = () => {
 
   const onSubmitSearch = (e) => {
     e.preventDefault()
-    console.log(search)
     navigate(`/results?search_query=${search}`)
   }
 

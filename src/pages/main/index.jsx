@@ -1,14 +1,16 @@
 import { useQuery } from '@tanstack/react-query'
-import React from 'react'
-import { fetchPopular } from '../../api/fetchPopular'
+import React, { useContext } from 'react'
 import VideoCard from '../../components/VideoCard'
+import { YoutubeAPIContext } from '../../context/YoutubeAPIContext'
 
 const MainPage = () => {
-  const {data: popular, isLoading, error} = useQuery(['videos', 'popular'], fetchPopular, {
+  const youtubeContext = useContext(YoutubeAPIContext)
+
+  const {data: popular, isLoading, error} = useQuery(['videos', 'popular'], 
+  () => youtubeContext.popular(), {
     staleTime: 1000 * 60
   })
 
-  // console.log(popular)
   if(isLoading) return <div>loading...</div>
   if(error) return <div>{error.message}</div>
 

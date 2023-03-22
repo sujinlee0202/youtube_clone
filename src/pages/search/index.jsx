@@ -1,19 +1,20 @@
 import { useQuery } from '@tanstack/react-query'
-import React from 'react'
+import React, { useContext } from 'react'
 import { useLocation } from 'react-router'
-import { fetchSearch } from '../../api/fetchSearch'
 import VideoCard from '../../components/VideoCard'
+import { YoutubeAPIContext } from '../../context/YoutubeAPIContext'
 
 
 const SearchPage = () => {
   const location = useLocation()
   let query = new URLSearchParams(location.search)
   let keyword = query.get('search_query')
+  const youtubeContext = useContext(YoutubeAPIContext)
 
-  const {data: search, isLoading, error} = useQuery(['videos', keyword], fetchSearch, {
+  const {data: search, isLoading, error} = useQuery(['videos', keyword], 
+  () => youtubeContext.search(keyword), {
     staleTime: 1000 * 60
   })
-
 
   if(isLoading) return <div>loading...</div>
   if(error) return <div>{error.message}</div>
