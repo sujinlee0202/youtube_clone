@@ -3,6 +3,9 @@ import React, { useContext } from 'react'
 import VideoCard from '../../components/VideoCard'
 import { YoutubeAPIContext } from '../../context/YoutubeAPIContext'
 
+/**
+ * index 페이지
+ */
 const MainPage = () => {
   const youtubeContext = useContext(YoutubeAPIContext)
 

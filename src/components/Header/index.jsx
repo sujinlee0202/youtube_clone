@@ -3,6 +3,9 @@ import {BsYoutube, BsKeyboardFill, BsSearch, BsXLg} from 'react-icons/bs'
 import {MdDarkMode} from 'react-icons/md'
 import { useNavigate } from 'react-router-dom'
 
+/**
+ * 상단 Header 구현 (배너, 검색창)
+ */
 const Header = () => {
   const [search, setSearch] = useState('')
   const [removeButton, setRemoveButton] = useState(false)

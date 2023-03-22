@@ -4,7 +4,9 @@ import { useLocation } from 'react-router'
 import VideoCard from '../../components/VideoCard'
 import { YoutubeAPIContext } from '../../context/YoutubeAPIContext'
 
-
+/**
+ * 검색 페이지
+ */
 const SearchPage = () => {
   const location = useLocation()
   let query = new URLSearchParams(location.search)
