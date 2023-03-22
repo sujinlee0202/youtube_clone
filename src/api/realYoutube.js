@@ -43,4 +43,16 @@ export default class RealYoutube {
     })
     .then(res => res.data.items)
   }
+
+  relate = async (id) => {
+    return this.httpClient.get('search', {
+      params: {
+        part: 'snippet',
+        relatedToVideoId: id,
+        type: 'video',
+        maxResults: 25
+      }
+    })
+    .then(res => res.data.items)
+  }
 }

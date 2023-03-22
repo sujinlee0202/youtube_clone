@@ -1,8 +1,11 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { useLocation } from 'react-router-dom'
 import { getDate } from '../../api/getDate'
 import RelativeVideo from '../../components/RelativeVideo'
 
+/**
+ * 비디오 디테일 페이지
+ */
 const VideoDetailPage = () => {
   const location = useLocation()
   let query = new URLSearchParams(location.search)
@@ -11,11 +14,8 @@ const VideoDetailPage = () => {
   const {channelTitle, description, publishedAt, title, tags} = location.state.videos.snippet
   const channelURL = location.state.channelURL
 
-  console.log(videoId)
-  console.log(channelURL)
-
   return (
-    <section className='max-w-screen-2xl mx-auto p-4 flex gap-2'>
+    <section className='w-full max-w-screen-2xl flex flex-col lg:flex-row gap-2 mx-auto justify-center p-4'>
       <article className='basis-4/6'>
         <div className='relative w-full h-0 pb-[56.25%] overflow-hidden'>
           <iframe 
@@ -44,7 +44,7 @@ const VideoDetailPage = () => {
           </pre>
         </div>
       </article>
-      <RelativeVideo />
+      <RelativeVideo videoId={videoId} />
     </section>
   )
 }
