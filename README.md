@@ -1,6 +1,12 @@
 # 유튜브 클론코딩
 ## 개요
-유튜브 Open API를 통해 추천 동영상 목록, 동영상 검색, 동영상 재생 기능 구현
+유튜브 Open API를 통한 유튜브 클론코딩하기
+## 기능
+- 인기있는 동영상 목록 표시 (20개)
+- 동영상 검색 기능 구현
+- 동영상 클릭 시 동영상 재생
+- 동영상 클릭 시 해당 동영상과 연관된 동영상 목록 표시
+
 ## 사용 기술
 * Youtube Open API
 * HTML, JavaScript
@@ -34,12 +40,12 @@ npm run start
 │  │  ├─ main
 │  │  ├─ search
 │  │  └─ videodetail
-│  └─ util
-│     └─ youtube.js
-├─ App.js
-├─ index.css
-├─ index.js
-├─ router.jsx
+│  ├─ util
+│  │  └─ youtube.js
+│  ├─ App.js
+│  ├─ index.css
+│  ├─ index.js
+│ ├─ router.jsx
 ```
 ## 세부사항
 ### public/data
