@@ -6,11 +6,14 @@
 - 동영상 검색 기능 구현
 - 동영상 클릭 시 동영상 재생
 - 동영상 클릭 시 해당 동영상과 연관된 동영상 목록 표시
-
 ## 사용 기술
 * Youtube Open API
 * HTML, JavaScript
 * React, Tailwind CSS, React Router, React Query, Axios, React-icons
+## 배포 URL (with Netlify)
+```
+https://thriving-fenglisu-ff1df5.netlify.app
+```
 ## 실행 방법
 ```
 npm run start
